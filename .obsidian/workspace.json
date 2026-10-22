@@ -4,122 +4,123 @@
     "type": "split",
     "children": [
       {
-        "id": "b52120dfb9572259",
+        "id": "7ad7c71340d2af55",
         "type": "tabs",
         "children": [
           {
-            "id": "98b86e5df06df119",
+            "id": "c266808ef2e1e124",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "级数.md",
+                "file": "一、函数、极限与连续.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "级数"
+              "title": "一、函数、极限与连续"
             }
           },
           {
-            "id": "00ed792037726fb4",
+            "id": "0fddaf22bc73890d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "曲线曲面积分.md",
+                "file": "二、一元微分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "曲线曲面积分"
+              "title": "二、一元微分"
             }
           },
           {
-            "id": "7129ebf756109bc7",
+            "id": "5667e2bc2137b3fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "重积分.md",
+                "file": "三、一元积分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "重积分"
+              "title": "三、一元积分"
             }
           },
           {
-            "id": "363633f7086e6504",
+            "id": "8852fd3b6c444995",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "多元微分.md",
+                "file": "四、微分方程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多元微分"
+              "title": "四、微分方程"
             }
           },
           {
-            "id": "4bfe4cc952c9376b",
+            "id": "cfb19f9b8ae927ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "微分方程.md",
+                "file": "五、多元微分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "微分方程"
+              "title": "五、多元微分"
             }
           },
           {
-            "id": "af76fe726d6a0b3b",
+            "id": "680cb75c3d2c8549",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一元积分.md",
+                "file": "六、重积分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一元积分"
+              "title": "六、重积分"
             }
           },
           {
-            "id": "61850c7db2a0a00c",
+            "id": "d76646b7cd7bcb1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一元微分.md",
+                "file": "七、曲线曲面积分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一元微分"
+              "title": "七、曲线曲面积分"
             }
           },
           {
-            "id": "b3dbaf43a8fd2777",
+            "id": "7e0b466870174409",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "函数、极限与连续.md",
+                "file": "八、级数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "函数、极限与连续"
+              "title": "八、级数"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,6 +146,21 @@
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
+            }
+          },
+          {
+            "id": "36808a9337be67ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "三、一元积分.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           },
           {
@@ -177,11 +193,12 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 352.5
   },
   "right": {
     "id": "c6aef9a2e39ff8fb",
@@ -252,23 +269,9 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
-          },
-          {
-            "id": "36808a9337be67ef",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "级数.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "大纲"
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -286,8 +289,16 @@
       "bases:新建数据库": false
     }
   },
-  "active": "98b86e5df06df119",
+  "active": "5667e2bc2137b3fc",
   "lastOpenFiles": [
+    "二、一元微分.md",
+    "一、函数、极限与连续.md",
+    "八、级数.md",
+    "七、曲线曲面积分.md",
+    "六、重积分.md",
+    "五、多元微分.md",
+    "四、微分方程.md",
+    "三、一元积分.md",
     "高数.md",
     "级数.md",
     "曲线曲面积分.md",
